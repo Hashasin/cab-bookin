@@ -1,0 +1,169 @@
+.card{
+
+width: 1280px;
+height: 188px;
+left: calc(30% - 1280px/2);
+top: calc(10% - 80px - 18px);
+/* bottom: calc(90% - 180px - 118px); */
+
+background: #171717;
+border-radius: 10px;
+  display: flex;
+ overflow-y: hidden; 
+   overflow-x: scroll; 
+  padding: 10px;
+   margin: 240px;
+   align-content: center;
+}
+
+.row{
+
+   margin: 10px;
+    padding: 10px;
+    
+}
+
+
+.image{
+width: 6px;
+height: 148px;
+left: calc(50% - 96px/2 - 463px);
+top: calc(50% - 148px/2 - 121px);
+border-radius: 5px;
+}
+
+.id{
+margin: 10px;
+width: 353px;
+height: 15px;
+/* left: calc(50% - 53px/2 - 94.5px);
+top: calc(50% - 25px/2 - 179.5px); */
+left: calc(50% - 353px/2 - 94.5px);
+top: calc(50% - 25px/2 - 179.5px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 50;
+font-size: 18px;
+line-height: 22px;
+color: #CFCFCF;
+
+
+flex: 1;
+    display: flex;
+    justify-content: right;
+    align-items: center;    
+}
+
+
+.origin_station_code{
+
+width: 10px;
+height: 6px;
+left: calc(50% - 340px/2 - 101px);
+top: calc(50% - 24px/2 - 149px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #CFCFCF;
+
+
+flex: 01;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+align-content: center;
+padding: 35px 0;
+}
+
+.station_path{
+
+width: 106px;
+height: 24px;
+left: calc(50% - 475px/2 - 33.5px);
+top: calc(50% - 24px/2 - 117px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #CFCFCF;
+
+
+flex: 1;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.date{
+    
+width: 406px;
+height: 22px;
+left: calc(50% - 406px/2 - 68px);
+top: calc(50% - 22px/2 - 86px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #CFCFCF;
+
+
+}
+
+
+.city{
+    width: 60px;
+height: 15px;
+left: 10px;
+top: 4px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+color: #b1acac;
+
+}
+
+.state{
+    width: 68px;
+height: 15px;
+left: 10px;
+top: 4px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+color: #a7a1a1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
